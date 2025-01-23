@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad 1: Datos en HTML</title>
+</head>
+<body>
+    <table border="1" cellpadding="10" cellspacing="0" align="center">
+        <caption><h1>Datos</h1></caption>
+        <tr>
+            <th>Nombre</th>
+            <td>Dannia Jocelyn Zea Carrizales</td>
+        </tr>
+        <tr>
+            <th>Matrícula</th>
+            <td>1915371</td>
+        </tr>
+        <tr>
+            <th>Materia</th>
+            <td>Desarrollo de Base de Datos</td>
+        </tr>
+        <tr>
+            <th>Colegio</th>
+            <td>Gestión de la Información y Recursos Digitales</td>
+        </tr>
+        <tr>
+            <th>Fecha</th>
+            <td>23 de enero del 2025</td>
+        </tr>
+    </table>
+</body>
+</html>
